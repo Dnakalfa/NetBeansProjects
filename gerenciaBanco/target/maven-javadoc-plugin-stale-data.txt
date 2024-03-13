@@ -1,0 +1,42 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/umberto alves/Documents/NetBeansProjects/gerenciaBanco/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/umberto alves/Documents/NetBeansProjects/gerenciaBanco/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'gerenciaBanco 1.0 API'
+-use
+-version
+-windowtitle
+'gerenciaBanco 1.0 API'
+com.mycompany.gerenciabanco
+C:\Users\umberto alves\Documents\NetBeansProjects\gerenciaBanco\src\main\java = 1709644585433
+C:\Users\umberto alves\Documents\NetBeansProjects\gerenciaBanco\target\site\apidocs\allclasses-index.html = 1709903977226
+C:\Users\umberto alves\Documents\NetBeansProjects\gerenciaBanco\target\site\apidocs\allpackages-index.html = 1709903977232
+C:\Users\umberto alves\Documents\NetBeansProjects\gerenciaBanco\target\site\apidocs\element-list = 1709903977161
+C:\Users\umberto alves\Documents\NetBeansProjects\gerenciaBanco\target\site\apidocs\help-doc.html = 1709903977280
+C:\Users\umberto alves\Documents\NetBeansProjects\gerenciaBanco\target\site\apidocs\index-all.html = 1709903977260
+C:\Users\umberto alves\Documents\NetBeansProjects\gerenciaBanco\target\site\apidocs\index.html = 1709903977265
+C:\Users\umberto alves\Documents\NetBeansProjects\gerenciaBanco\target\site\apidocs\jquery-ui.overrides.css = 1709903977324
+C:\Users\umberto alves\Documents\NetBeansProjects\gerenciaBanco\target\site\apidocs\member-search-index.js = 1709903977246
+C:\Users\umberto alves\Documents\NetBeansProjects\gerenciaBanco\target\site\apidocs\module-search-index.js = 1709903977236
+C:\Users\umberto alves\Documents\NetBeansProjects\gerenciaBanco\target\site\apidocs\overview-tree.html = 1709903977209
+C:\Users\umberto alves\Documents\NetBeansProjects\gerenciaBanco\target\site\apidocs\package-search-index.js = 1709903977240
+C:\Users\umberto alves\Documents\NetBeansProjects\gerenciaBanco\target\site\apidocs\script.js = 1709903977291
+C:\Users\umberto alves\Documents\NetBeansProjects\gerenciaBanco\target\site\apidocs\search.js = 1709903977297
+C:\Users\umberto alves\Documents\NetBeansProjects\gerenciaBanco\target\site\apidocs\stylesheet.css = 1709903977287
+C:\Users\umberto alves\Documents\NetBeansProjects\gerenciaBanco\target\site\apidocs\tag-search-index.js = 1709903977248
+C:\Users\umberto alves\Documents\NetBeansProjects\gerenciaBanco\target\site\apidocs\type-search-index.js = 1709903977243
